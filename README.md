@@ -1,5 +1,5 @@
 ### Hello there 👋  
-I'm a *Backend developer*.
+I'm a *Backend developer*, building [@Plyrius](https://github.com/plyrius) ...
 
 * 🧠 Currently focused on: Node.js, React.js, RESTful APIs, MySQL & PostgreSQL  
 * 🛠️ I use daily: `.js`, `.py`,`.sql`, `.md`, `.bash`  
@@ -9,6 +9,6 @@ I'm a *Backend developer*.
 📌 Currently working on
 * 📁 [`Leena`](https://github.com/therakius/Leena) – An AI powered assistant for small informal business owners.
 * 📁 [`moz-demog-api`](https://github.com/therakius/moz-demog-api) – Demographic API for Mozambique using public INE data.
-* 📁 [`cortio.so`](https://github.com/therakius/cortio.so) – A clean, privacy-friendly URL shortener.
+* 📁 [`moz-indicators`](https://github.com/therakius/moz-indicators) – A clean ui exposing some demogrephic indicators for mozambique.
   
 💬 Ping me about backend development, learning to code solo, or building simple and useful projects
