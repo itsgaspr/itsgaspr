@@ -9,6 +9,6 @@ I'm a *Backend developer*, building [plyrius](https://github.com/plyrius) 👨�
 📌 Currently working on
 * 📁 [`Leena`](https://github.com/therakius/Leena) – An AI powered assistant for small informal business owners.
 * 📁 [`moz-demog-api`](https://github.com/therakius/moz-demog-api) – Demographic API for Mozambique using public INE data.
-* 📁 [`moz-indicators`](https://github.com/therakius/moz-indicators) – A clean ui exposing some demogrephic indicators for mozambique.
+* 📁 [`moz-indicators`](https://github.com/therakius/moz-indicators) – A clean ui exposing some demographic indicators for mozambique.
   
 💬 Ping me about backend development, learning to code solo, or building simple and useful projects
