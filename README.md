@@ -1,9 +1,9 @@
 ### Hello there 👋  
-I'm a *Backend developer*, building [plyrius](https://github.com/plyrius) 👨🏾‍💻.
+I'm a *Software developer*, building [plyrius](https://github.com/plyrius) 👨🏾‍💻.
 
 * 🧠 Currently focused on: Node.js, React.js, RESTful APIs, MySQL & PostgreSQL  
 * 🛠️ I use daily: `.js`, `.py`,`.sql`, `.md`, `.bash`  
-* 🔧 Tools: VS Code, Notion, Postman, Git, GitHub, Rabbitmq-server 
+* 🔧 Tools: VS Code, Postman, Git, GitHub
 * 🌍 Interested in: API design, UX, particle physics  
 
 📌 Currently working on
