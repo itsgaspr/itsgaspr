@@ -1,5 +1,5 @@
 ### Hello there 👋  
-I'm a *Software developer*, building [plyrius](https://github.com/plyrius) 👨🏾‍💻.
+I'm a *Backend Seveloper*, building [plyrius](https://github.com/plyrius) 👨🏾‍💻.
 
 * 🧠 Currently focused on: Node.js, React.js, RESTful APIs, MySQL & PostgreSQL  
 * 🛠️ I use daily: `.js`, `.py`,`.sql`, `.md`, `.bash`  
