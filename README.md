@@ -30,4 +30,4 @@ A lightweight interface for visualizing demographic indicators for Mozambique, d
 ---
 
 💬 **Reach out**  
-Backend development • API design • building solo • practical system design
+Backend development • API design • building solo
