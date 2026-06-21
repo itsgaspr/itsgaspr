@@ -1,5 +1,5 @@
 ### Hello there 👋  
-I'm a *Backend Engineer*, building systems, APIs, and developer tools 👨🏾‍💻.
+I'm a *Backend Developer*, building systems, APIs, and developer tools 👨🏾‍💻.
 
 I’m currently working under the [Plyrius](https://github.com/plyrius) initiative — a space for building practical open-source tools and backend systems.
 
