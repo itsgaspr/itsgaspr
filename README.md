@@ -1,14 +1,33 @@
 ### Hello there 👋  
-I'm a *Backend developer*, building [plyrius](https://github.com/plyrius) 👨🏾‍💻.
+I'm a *Backend Engineer*, building systems, APIs, and developer tools 👨🏾‍💻.
 
-* 🧠 Currently focused on: Node.js, React.js, RESTful APIs, MySQL & PostgreSQL  
-* 🛠️ I use daily: `.js`, `.py`,`.sql`, `.md`, `.bash`  
-* 🔧 Tools: VS Code, Postman, Git, GitHub
-* 🌍 Interested in: API design, UX, particle physics  
+I’m currently working under the [Plyrius](https://github.com/plyrius) initiative — a space for building practical open-source tools and backend systems.
 
-📌 Currently working on
-* 📁 [`Leena`](https://github.com/therakius/Leena) – An AI powered assistant for small informal business owners.
-* 📁 [`moz-demog-api`](https://github.com/therakius/moz-demog-api) – Demographic API for Mozambique using public INE data.
-* 📁 [`moz-indicators`](https://github.com/therakius/moz-indicators) – A clean ui exposing some demographic indicators for mozambique.
-  
-💬 Ping me about backend development, learning to code solo, or building simple and useful projects
+---
+
+🧠 **Focus**  
+Backend systems, API design, data modeling, and software architecture.  
+I prefer building simple, explicit, and maintainable systems over complex abstractions.
+
+---
+
+🛠️ **Tech I work with**  
+Node.js • Python • REST APIs • MySQL • PostgreSQL • JavaScript • Bash • Markdown
+
+---
+
+📌 **Featured projects**
+
+📁 [`Leena`](https://github.com/therakius/Leena)  
+An AI-powered assistant designed to help small informal business owners manage and automate daily tasks through simple workflows and conversational interaction.
+
+📁 [`moz-demog-api`](https://github.com/therakius/moz-demog-api)  
+A REST API built on INE datasets to structure and expose demographic indicators for Mozambique, focusing on clean data modeling and predictable API design.
+
+📁 [`moz-indicators`](https://github.com/therakius/moz-indicators)  
+A lightweight interface for visualizing demographic indicators for Mozambique, designed around simplicity and accessibility of structured data.
+
+---
+
+💬 **Reach out**  
+Backend development • API design • building solo • practical system design
